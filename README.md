@@ -1,8 +1,8 @@
-# Data Cleaning using Python for Analysis
+# Data Cleaning using Excel for Analysis
 
-I performed the data cleaning process using python libraries: pandas, zipfile, kaggle [(see notebook)](https://github.com/razeeniqbal/python-london-bike/blob/main/london_bikes_code.ipynb). 
+I performed the data cleaning process using excel features: functions, sorting and filtering, lookup formulas [(see excel)](https://github.com/razeeniqbal/excel-bike-sales/blob/main/Excel%20Project%20Dataset-final.xlsx). 
 
 Hereby are the figures before and after data being process:
 
-![plot](https://github.com/razeeniqbal/python-london-bike/blob/main/london_merged.png)
-![plot](https://github.com/razeeniqbal/python-london-bike/blob/main/london_bikes_final.png)
+![plot](https://github.com/razeeniqbal/excel-bike-sales/blob/main/Excel%20Project%20Dataset-raw.png)
+![plot](https://github.com/razeeniqbal/excel-bike-sales/blob/main/Excel%20Project%20Dataset-final.png)
