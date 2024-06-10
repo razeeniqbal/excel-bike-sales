@@ -13,7 +13,7 @@ The project aims to clean and prepare data for analysis using Excel. The primary
 *Software Used / Process / Methodology*
 
 Software Used:
--Microsoft Excel
+- Microsoft Excel
 
 Process and Methodology:
 
