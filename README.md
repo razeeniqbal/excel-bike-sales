@@ -2,7 +2,9 @@
 
 *Scope of the Project*
 
-The project aims to clean and prepare data for analysis using Excel. The primary focus is on improving data quality by removing errors, inconsistencies, and inaccuracies to ensure that the dataset is ready for accurate and meaningful analysis. The project involves:
+The project aims to clean and prepare data for analysis using Excel. The primary focus is on improving data quality by removing errors, inconsistencies, and inaccuracies to ensure that the dataset is ready for accurate and meaningful analysis. 
+
+The project involves:
 
 - Identifying and rectifying errors and inconsistencies in the dataset.
 - Removing duplicate entries.
